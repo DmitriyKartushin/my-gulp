@@ -1,0 +1,15 @@
+.stack-section {
+    background-image:url(/images/bg.png);
+   padding: 100px 0;;
+}
+.stack_body {
+    display: flex;
+    justify-content: space-around;
+}
+.stack {
+}
+.stack__item {
+    padding: 10px;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+}

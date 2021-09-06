@@ -1,0 +1,24 @@
+.header {
+    background-color: #db5053;
+}
+
+.header__logo {
+}
+.logo {
+}
+.logo__image {
+    display: block;
+    margin: 0 auto;
+}
+.header__info {
+}
+.info {
+    text-align: center;
+    color:white;
+}
+.info__title {
+    font-size: 2.2em;
+}
+.info__text {
+    font-size: 1.6em;
+}

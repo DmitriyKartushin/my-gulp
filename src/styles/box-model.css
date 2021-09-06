@@ -1,0 +1,12 @@
+/* Box Model */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#db5053;
+    font-size: 18px;
+}
